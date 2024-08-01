@@ -1,0 +1,10 @@
+.poke-card {
+  background-color: #525359;
+  border-radius: 5px;
+}
+
+.poke-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
